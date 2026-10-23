@@ -16,10 +16,6 @@ align="center"> <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;
 
 <br> 
 
-<p 
-    align="center"> <img alt="DevLinks" src=".github/preview.jpg" width="100%"> 
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
